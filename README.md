@@ -138,6 +138,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 - [贵州辣子鸡](dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md)
 - [荷兰豆炒腊肠](dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md)
 - [黑椒牛柳](dishes/meat_dish/黑椒牛柳/黑椒牛柳.md)
+- [红烧鸡翅](dishes/meat_dish/红烧鸡翅.md)
 - [简易红烧肉](dishes/meat_dish/红烧肉/简易红烧肉.md)
 - [南派红烧肉](dishes/meat_dish/红烧肉/南派红烧肉.md)
 - [红烧猪蹄](dishes/meat_dish/红烧猪蹄/红烧猪蹄.md)
