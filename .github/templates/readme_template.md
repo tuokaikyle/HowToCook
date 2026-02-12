@@ -49,6 +49,7 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 ## 衍生作品推荐
 
+- [图像化菜谱：支持在线预览与 PDF 导出](https://king-jingxiang.github.io/HowToCook/)
 - [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
 - [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
 - [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
