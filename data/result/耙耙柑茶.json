@@ -5,6 +5,9 @@
     "file": "dishes/drink/耙耙柑茶/耙耙柑茶.md",
     "title": "耙耙柑茶",
     "description": [],
+    "images": [
+      "![citrus-tea](citrus-tea.jpg)"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "原料:",

@@ -5,6 +5,9 @@
     "file": "dishes/staple/米饭/煮锅蒸米饭.md",
     "title": "煮锅蒸米饭",
     "description": [],
+    "images": [
+      "![rice_regularPot](./rice_regularPot.jpeg)"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "北方大米",
@@ -25,8 +28,7 @@
       "**搅拌底部防止粘黏**",
       "盖上锅盖，转**小火**加热 10-15 分钟（根据对软糯程度的喜好），中途切勿打开锅盖",
       "关火，静置 5 分钟",
-      "Enjoy :)",
-      "![rice_regularPot](./rice_regularPot.jpeg)"
+      "Enjoy :)"
     ],
     "additionalContent": [
       "[腐国人研究煮米饭，好想送他们个电饭煲！](https://www.bilibili.com/video/BV1RW411z7r9)",

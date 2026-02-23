@@ -5,6 +5,9 @@
     "file": "dishes/staple/韩式拌饭/韩式拌饭.md",
     "title": "韩式拌饭",
     "description": [],
+    "images": [
+      "![韩式拌饭](./韩式拌饭.png)"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "米饭",

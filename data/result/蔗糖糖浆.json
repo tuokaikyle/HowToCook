@@ -7,14 +7,16 @@
     "description": [
       "将糖事先溶解好便于在配制饮料（特别是冷饮）时给饮料增甜"
     ],
+    "images": [
+      "![bottle](./bottle.jpg)"
+    ],
     "difficulty": "★",
     "ingredients": [
       "原料",
       "白砂糖",
       "水",
       "工具",
-      "可密封容器（建议使用高硼硅试剂瓶，便宜）",
-      "![bottle](./bottle.jpg)"
+      "可密封容器（建议使用高硼硅试剂瓶，便宜）"
     ],
     "calculations": {
       "quantity": [

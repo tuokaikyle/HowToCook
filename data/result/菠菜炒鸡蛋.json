@@ -7,6 +7,9 @@
     "description": [
       "这道菜难度系数简单，营养丰富。"
     ],
+    "images": [
+      "![示例菜成品](./菠菜炒鸡蛋.jpg)"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "菠菜",

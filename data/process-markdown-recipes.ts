@@ -8,6 +8,7 @@ type Recipe = {
   file: string;
   title: string;
   description: string[];
+  images?: string[];
   difficulty?: string;
   ingredients: string[];
   calculations: {
@@ -35,6 +36,7 @@ function parseRecipe(md: string, file: string): Recipe {
   const description: string[] = [];
   let difficulty = "";
   const ingredients: string[] = [];
+  const images: string[] = [];
   const calculations = {
     quantity: [] as string[],
     note: [] as string[],
@@ -50,6 +52,11 @@ function parseRecipe(md: string, file: string): Recipe {
 
     if (line.startsWith("# ")) {
       title = line.replace(/^#\s+/, "").replace(/的做法$/, "");
+      continue;
+    }
+
+    if (line.startsWith("![")) {
+      images.push(line);
       continue;
     }
 
@@ -115,6 +122,7 @@ function parseRecipe(md: string, file: string): Recipe {
     file,
     title,
     description,
+    images: images.length > 0 ? images : undefined,
     difficulty: difficulty || undefined,
     ingredients,
     calculations,

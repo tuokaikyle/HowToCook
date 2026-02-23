@@ -5,6 +5,9 @@
     "file": "dishes/staple/老友猪肉粉/老友猪肉粉.md",
     "title": "老友猪肉粉",
     "description": [],
+    "images": [
+      "![示例菜成品](老友猪肉粉.jpg)"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "米粉",

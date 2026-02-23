@@ -5,6 +5,9 @@
     "file": "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
     "title": "电饭煲三文鱼炊饭",
     "description": [],
+    "images": [
+      "![电饭煲三文鱼炊饭示例菜成品](./电饭煲三文鱼炊饭.webp)"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "有盐牛油",

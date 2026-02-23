@@ -5,6 +5,9 @@
     "file": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
     "title": "香菇滑鸡",
     "description": [],
+    "images": [
+      "![香菇滑鸡](./香菇滑鸡.jpg)"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "大鸡腿",

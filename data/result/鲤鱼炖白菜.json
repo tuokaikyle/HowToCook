@@ -5,6 +5,9 @@
     "file": "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
     "title": "鲤鱼炖白菜",
     "description": [],
+    "images": [
+      "![鲤鱼炖白菜](./鲤鱼炖白菜.jpeg)"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "食用油",

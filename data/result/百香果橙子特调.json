@@ -8,6 +8,10 @@
       "茉莉绿茶版本",
       "苏打气泡水版本"
     ],
+    "images": [
+      "![tea](./tea-version.jpg)",
+      "![tea](./soda-version.jpg)"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "原料:",
