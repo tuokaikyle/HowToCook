@@ -5,6 +5,9 @@
     "file": "dishes/aquatic/油焖大虾/油焖大虾.md",
     "title": "油焖大虾",
     "description": [],
+    "images": [
+      "![成品](./油焖大虾.jpg)"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "黑虎虾 or 明虾、",
@@ -41,7 +44,6 @@
       "收汁（过滤后倒回锅里收浓，放葱油 ） 汤汁剩余 1/4 时。",
       "浇汁",
       "完成",
-      "![成品](./油焖大虾.jpg)",
       "开吃✅"
     ],
     "additionalContent": [

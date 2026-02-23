@@ -27,6 +27,14 @@ function normalizeSectionLine(line: string): { text: string; isBullet: boolean }
   return { text: line.trim(), isBullet: false };
 }
 
+function normalizeImageLine(line: string): string | undefined {
+  const imageMatch = line.match(/^[-*]?\s*(!\[[^\]]*\]\([^)]+\))\s*$/);
+  if (imageMatch) {
+    return imageMatch[1].trim();
+  }
+  return undefined;
+}
+
 function parseRecipe(md: string, file: string): Recipe {
   const lines = md.split("\n").map((l) => l.trimEnd());
   const pathParts = file.split("/");
@@ -55,8 +63,9 @@ function parseRecipe(md: string, file: string): Recipe {
       continue;
     }
 
-    if (line.startsWith("![")) {
-      images.push(line);
+    const normalizedImage = normalizeImageLine(line);
+    if (normalizedImage) {
+      images.push(normalizedImage);
       continue;
     }
 
