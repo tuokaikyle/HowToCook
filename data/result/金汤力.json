@@ -4,7 +4,9 @@
     "category": "drink",
     "file": "dishes/drink/金汤力/金汤力.md",
     "title": "金汤力",
-    "description": "**饮酒有害健康，未成年人禁止饮酒**",
+    "description": [
+      "**饮酒有害健康，未成年人禁止饮酒**"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "原料",

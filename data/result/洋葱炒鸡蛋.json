@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
     "title": "洋葱炒鸡蛋",
-    "description": "洋葱炒鸡蛋，是中国的一道日常生活中所熟知的菜品",
+    "description": [
+      "洋葱炒鸡蛋，是中国的一道日常生活中所熟知的菜品"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "鸡蛋",

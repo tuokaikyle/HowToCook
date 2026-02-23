@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/反沙芋头/反沙芋头.md",
     "title": "反沙芋头",
-    "description": "![反沙芋头成品](./反沙芋头成品.jpg)",
+    "description": [
+      "反沙芋头是一道著名的潮汕小吃，下午茶，制作起来特别方便，～预计制作时间 20 分钟"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "荔浦芋头（电商平台购买即可，实惠新鲜）",

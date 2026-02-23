@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/英式司康/英式司康.md",
     "title": "英式司康",
-    "description": "![示例菜成品](./英式司康.png)",
+    "description": [
+      "英式司康是非常简单快手的下午茶甜品，可以搭配果酱、茶与咖啡。成品以蛋奶香气为主轴风味，糖量适中不会过于甜腻。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "无盐黄油（推荐品牌总统）",

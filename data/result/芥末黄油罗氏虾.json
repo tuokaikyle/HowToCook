@@ -4,7 +4,9 @@
     "category": "aquatic",
     "file": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
     "title": "芥末黄油罗氏虾",
-    "description": "![芥末黄油罗氏虾](./芥末黄油罗氏虾.jpg)",
+    "description": [
+      "这是一道做法简单，味道美味，具有新意的海鲜菜。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "罗氏虾",

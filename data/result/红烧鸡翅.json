@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/红烧鸡翅.md",
     "title": "红烧鸡翅",
-    "description": "红烧鸡翅是一道家常下饭菜，咸鲜带甜、色泽红亮。蛋白质丰富，制作难度适中，预计制作时长约 40 分钟。",
+    "description": [
+      "红烧鸡翅是一道家常下饭菜，咸鲜带甜、色泽红亮。蛋白质丰富，制作难度适中，预计制作时长约 40 分钟。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "新鲜鸡翅（推荐选择鸡翅中，肉质更嫩）",

@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
     "title": "香辣鸡爪煲",
-    "description": "![香辣鸡爪煲](./result2.jpg)",
+    "description": [
+      "香辣鸡爪煲口感 Q 弹，香辣浓郁，回味无穷。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "鸡爪",

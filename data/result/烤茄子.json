@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/烤茄子/烤茄子.md",
     "title": "烤茄子",
-    "description": "非常简单方便，而且香极了",
+    "description": [
+      "非常简单方便，而且香极了"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "茄子",

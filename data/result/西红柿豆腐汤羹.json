@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
     "title": "西红柿豆腐汤羹",
-    "description": "西红柿豆腐汤羹是一道很清淡美味的汤羹",
+    "description": [
+      "西红柿豆腐汤羹是一道很清淡美味的汤羹"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "西红柿",

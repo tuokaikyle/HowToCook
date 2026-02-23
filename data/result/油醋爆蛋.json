@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/油醋爆蛋.md",
     "title": "油醋爆蛋",
-    "description": "油醋爆蛋是十分简单但是色香味一绝的一道菜，属于湘菜。制作十分简单，大约十分钟。",
+    "description": [
+      "油醋爆蛋是十分简单但是色香味一绝的一道菜，属于湘菜。制作十分简单，大约十分钟。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "鸡蛋",

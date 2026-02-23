@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/水煮玉米.md",
     "title": "水煮玉米",
-    "description": "大约 15 分钟可以完成制作。",
+    "description": [
+      "大约 15 分钟可以完成制作。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "新鲜玉米",

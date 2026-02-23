@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/豉汁排骨.md",
     "title": "豉汁排骨",
-    "description": "豉汁排骨是粤式茶楼经典蒸点，豉香浓郁，排骨滑嫩多汁，超下饭！",
+    "description": [
+      "豉汁排骨是粤式茶楼经典蒸点，豉香浓郁，排骨滑嫩多汁，超下饭！"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "肋排",

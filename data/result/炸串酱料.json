@@ -4,7 +4,9 @@
     "category": "condiment",
     "file": "dishes/condiment/炸串酱料.md",
     "title": "炸串酱料",
-    "description": "炸串酱料，号称淋袜子都好吃，新手友好，预计用时 10 分钟。",
+    "description": [
+      "炸串酱料，号称淋袜子都好吃，新手友好，预计用时 10 分钟。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "干辣椒面（粗细都准备）",

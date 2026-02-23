@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/杀猪菜.md",
     "title": "杀猪菜",
-    "description": "杀猪菜的做法 （荤菜）",
+    "description": [
+      "杀猪菜的做法 （荤菜）"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "血肠",

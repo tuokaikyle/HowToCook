@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/意式肉酱面/意式肉酱面.md",
     "title": "意式肉酱面",
-    "description": "![示例菜成品](./final.jpg)",
+    "description": [
+      "意式肉酱面是一道非常容易做的菜，做得熟练的话，可以在 15 分钟内完成，从此告别方便面"
+    ],
     "difficulty": "★",
     "ingredients": [
       "意大利面",

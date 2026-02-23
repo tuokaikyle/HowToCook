@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/洋葱炒猪肉.md",
     "title": "洋葱炒猪肉",
-    "description": "咸中带甜，简单上手，一不小心可能让人多吃一碗饭。一般只需 15 分钟即可完成。",
+    "description": [
+      "咸中带甜，简单上手，一不小心可能让人多吃一碗饭。一般只需 15 分钟即可完成。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "洋葱",

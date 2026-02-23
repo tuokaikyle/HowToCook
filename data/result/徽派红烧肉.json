@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
     "title": "徽派红烧肉",
-    "description": "徽式红烧肉是一道由五花肉等食材制成的菜肴。",
+    "description": [
+      "徽式红烧肉是一道由五花肉等食材制成的菜肴。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "五花肉",

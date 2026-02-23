@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/炸鲜奶/炸鲜奶.md",
     "title": "炸鲜奶",
-    "description": "![炸鲜奶成品](./炸鲜奶.jpg)",
+    "description": [
+      "炸鲜奶是一种外脆里嫩的甜点，营养价值适中，制作难度中等，预计制作时长约为 20 分钟。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "牛奶",

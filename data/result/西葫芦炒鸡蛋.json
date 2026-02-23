@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
     "title": "西葫芦炒鸡蛋",
-    "description": "![西葫芦炒鸡蛋](./西葫芦炒鸡蛋.jpeg)",
+    "description": [
+      "西葫芦炒鸡蛋是一道简单易做的家常菜。简单易购的食材，好吃又下饭。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "西葫芦",

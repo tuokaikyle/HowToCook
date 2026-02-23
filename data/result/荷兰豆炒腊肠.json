@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
     "title": "荷兰豆炒腊肠",
-    "description": "![荷兰豆炒腊肠](./1.png)",
+    "description": [
+      "荷兰豆炒腊肠是一道营养丰富，口感清爽，有利于开胃助食，增进食欲的美味菜肴。荷兰豆中富含人体所需的各种营养物质，尤其是含有优质蛋白质，可以提高机体的抗病能力和康复能力。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "荷兰豆",

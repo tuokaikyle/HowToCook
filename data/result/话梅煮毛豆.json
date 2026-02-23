@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
     "title": "话梅煮毛豆",
-    "description": "酸甜可口、营养价值高的一种简易美食",
+    "description": [
+      "酸甜可口、营养价值高的一种简易美食"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "毛豆",

@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
     "title": "菠菜炒鸡蛋",
-    "description": "这道菜难度系数简单，营养丰富。",
+    "description": [
+      "这道菜难度系数简单，营养丰富。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "菠菜",

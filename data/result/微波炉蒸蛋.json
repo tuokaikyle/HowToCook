@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/微波炉蒸蛋.md",
     "title": "微波炉蒸蛋",
-    "description": "嫩滑细腻、快速上桌的高蛋白早餐，用微波炉即可完成，约 10 分钟完成，适合 1-2 人食用。",
+    "description": [
+      "嫩滑细腻、快速上桌的高蛋白早餐，用微波炉即可完成，约 10 分钟完成，适合 1-2 人食用。"
+    ],
     "difficulty": "★",
     "ingredients": [
       "鸡蛋",

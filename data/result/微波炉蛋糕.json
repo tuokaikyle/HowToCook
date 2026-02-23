@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/微波炉蛋糕.md",
     "title": "微波炉蛋糕",
-    "description": "微波炉\"叮\"蛋糕，大约需要 2 分钟 就能搞定！初学者所需时间预计延长至 20 分钟。",
+    "description": [
+      "微波炉\"叮\"蛋糕，大约需要 2 分钟 就能搞定！初学者所需时间预计延长至 20 分钟。"
+    ],
     "difficulty": "★",
     "ingredients": [
       "微波炉",

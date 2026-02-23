@@ -4,7 +4,9 @@
     "category": "drink",
     "file": "dishes/drink/酸梅汤/酸梅汤.md",
     "title": "酸梅汤",
-    "description": "![酸梅汤](./imges/sour_plum_soup.jpg)",
+    "description": [
+      "视频演示： [链接](https://www.bilibili.com/video/BV1164y1F7hv/)"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "水",

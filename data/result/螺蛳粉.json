@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/螺蛳粉.md",
     "title": "螺蛳粉",
-    "description": "正宗的螺蛳粉是不臭的！",
+    "description": [
+      "正宗的螺蛳粉是不臭的！"
+    ],
     "difficulty": "★",
     "ingredients": [
       "> 出于家常菜考虑，从螺蛳，酸笋等工序开始制作螺蛳粉并不现实，因此本食谱基于袋装螺蛳粉实现。",

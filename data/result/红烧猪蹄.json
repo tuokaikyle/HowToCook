@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
     "title": "红烧猪蹄",
-    "description": "![红烧猪蹄](./红烧猪蹄.jpg)",
+    "description": [
+      "红烧猪蹄营养丰富，味道香，汤汁浓郁、下饭强。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "猪蹄",

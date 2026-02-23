@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/萝卜炖羊排.md",
     "title": "萝卜炖羊排",
-    "description": "萝卜炖羊排是一道常见家常菜，老少皆宜。一般初学者只需要最多 2 小时即可完成。",
+    "description": [
+      "萝卜炖羊排是一道常见家常菜，老少皆宜。一般初学者只需要最多 2 小时即可完成。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "羊排",

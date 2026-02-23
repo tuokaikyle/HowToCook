@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/红柚蛋糕/红柚蛋糕.md",
     "title": "红柚蛋糕",
-    "description": "红柚蛋糕是空气炸锅基础甜点，一份适合单人食用，食材处理需要 10 分钟，烹饪需要 25 分钟。",
+    "description": [
+      "红柚蛋糕是空气炸锅基础甜点，一份适合单人食用，食材处理需要 10 分钟，烹饪需要 25 分钟。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "空气炸锅",

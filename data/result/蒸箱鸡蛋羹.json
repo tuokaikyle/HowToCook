@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
     "title": "蒸箱鸡蛋羹",
-    "description": "蒸箱鸡蛋羹，是一道简单快捷易做的菜，制作时长约为 15 分钟。适用于有家庭蒸箱的厨师。",
+    "description": [
+      "蒸箱鸡蛋羹，是一道简单快捷易做的菜，制作时长约为 15 分钟。适用于有家庭蒸箱的厨师。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鸡蛋",

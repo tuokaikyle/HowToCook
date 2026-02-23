@@ -4,7 +4,9 @@
     "category": "drink",
     "file": "dishes/drink/奶茶.md",
     "title": "奶茶",
-    "description": "奶茶是一种简单易做的饮料。一般初学者只需要 30 分钟即可完成。",
+    "description": [
+      "奶茶是一种简单易做的饮料。一般初学者只需要 30 分钟即可完成。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "袋泡红茶（推荐立顿黄牌精选红茶）",

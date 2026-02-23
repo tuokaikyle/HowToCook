@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md",
     "title": "芋泥雪媚娘",
-    "description": "![芋泥雪媚娘成品](./芋泥雪媚娘成品.jpg)",
+    "description": [
+      "芋泥雪媚娘是一道甜品，很适合做给孩子吃，无需烤箱，手残党也可以做成功～预计制作时间 2 小时。"
+    ],
     "difficulty": "★★★★★",
     "ingredients": [
       "荔浦芋头（电商平台购买即可，实惠新鲜）",

@@ -4,7 +4,9 @@
     "category": "drink",
     "file": "dishes/drink/冬瓜茶.md",
     "title": "冬瓜茶",
-    "description": "冬瓜茶是一种清爽的传统饮料，一般初学者需要 4~5 小时完成。",
+    "description": [
+      "冬瓜茶是一种清爽的传统饮料，一般初学者需要 4~5 小时完成。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "冬瓜",

@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/肉蛋盖饭.md",
     "title": "肉蛋盖饭",
-    "description": "肉蛋盖饭适合于单人简易晚餐，烹饪大约需要十五分钟。",
+    "description": [
+      "肉蛋盖饭适合于单人简易晚餐，烹饪大约需要十五分钟。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "米饭",

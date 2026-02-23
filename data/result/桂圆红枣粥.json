@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/桂圆红枣粥.md",
     "title": "桂圆红枣粥",
-    "description": "桂圆红枣粥，甜口。补血安神，健脑益智，补养心脾。制作时间需要 70 分钟。",
+    "description": [
+      "桂圆红枣粥，甜口。补血安神，健脑益智，补养心脾。制作时间需要 70 分钟。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "糯米（或大米）",

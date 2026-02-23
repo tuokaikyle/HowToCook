@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/玛格丽特饼干/玛格丽特饼干.md",
     "title": "玛格丽特饼干",
-    "description": "![玛格丽特成品](./玛格丽特饼干.jpg)",
+    "description": [
+      "玛格丽特饼干通常作为下午茶点心或伴随热饮享用，是一种经典而受欢迎的点心。它们的酥脆质地和丰富的黄油味道使它们成为许多人喜爱的饼干之一。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "熟蛋黄",

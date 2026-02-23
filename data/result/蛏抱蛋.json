@@ -4,7 +4,9 @@
     "category": "aquatic",
     "file": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
     "title": "蛏抱蛋",
-    "description": "蛏抱蛋，是流行于福建省福州地区的传统家常菜",
+    "description": [
+      "蛏抱蛋，是流行于福建省福州地区的传统家常菜"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "蛏子",

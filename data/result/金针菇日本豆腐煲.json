@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/金针菇日本豆腐煲.md",
     "title": "金针菇日本豆腐煲",
-    "description": "金针菇日本豆腐煲是一道容易上手的日常料理。",
+    "description": [
+      "金针菇日本豆腐煲是一道容易上手的日常料理。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "金针菇",

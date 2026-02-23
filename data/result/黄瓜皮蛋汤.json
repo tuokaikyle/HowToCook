@@ -4,7 +4,9 @@
     "category": "soup",
     "file": "dishes/soup/黄瓜皮蛋汤.md",
     "title": "黄瓜皮蛋汤",
-    "description": "黄瓜皮蛋汤是快手的家常汤品，清淡中带着焦香，暖心暖胃又不油腻。简单到厨房小白都能轻松搞定哟！",
+    "description": [
+      "黄瓜皮蛋汤是快手的家常汤品，清淡中带着焦香，暖心暖胃又不油腻。简单到厨房小白都能轻松搞定哟！"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "黄瓜",

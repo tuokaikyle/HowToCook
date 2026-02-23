@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/家常日本豆腐.md",
     "title": "家常日本豆腐",
-    "description": "家常日本豆腐用金黄脆壳裹住日本豆腐的娇嫩，三分钟快炒成就餐桌之光，脆嫩咸香暴击味蕾。",
+    "description": [
+      "家常日本豆腐用金黄脆壳裹住日本豆腐的娇嫩，三分钟快炒成就餐桌之光，脆嫩咸香暴击味蕾。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "日本豆腐（玉子豆腐）",

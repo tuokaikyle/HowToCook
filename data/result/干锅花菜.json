@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
     "title": "干锅花菜",
-    "description": "![干锅花菜成品](./干锅花菜.jpg)",
+    "description": [
+      "干锅花菜是湘菜常见的一道菜。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "花菜",

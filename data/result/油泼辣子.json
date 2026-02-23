@@ -4,7 +4,9 @@
     "category": "condiment",
     "file": "dishes/condiment/油泼辣子/油泼辣子.md",
     "title": "油泼辣子",
-    "description": "![image](./口水鸡+油泼辣子.jpg)",
+    "description": [
+      "制作耗时 10 分钟"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "蒜头",

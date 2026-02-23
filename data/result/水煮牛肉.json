@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
     "title": "水煮牛肉",
-    "description": "![shuizhuniurou](./sznr1.jpg)",
+    "description": [
+      "麻辣鲜香"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "牛肉",

@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
     "title": "茄子肉煎饼",
-    "description": "![茄子肉煎饼成品](./茄子肉煎饼.jpg)",
+    "description": [
+      "茄子肉煎饼是一道简单易做的饼类主食。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "米粉（指用大米研磨成的粉）",

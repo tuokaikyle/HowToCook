@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md",
     "title": "鸡蛋花",
-    "description": "鸡蛋花是一道简单易做的菜。有着润肺止咳、缓解喉咙不适的家常食疗方。对于初学者，做一遍即可学会。有甜和咸两种做法。",
+    "description": [
+      "鸡蛋花是一道简单易做的菜。有着润肺止咳、缓解喉咙不适的家常食疗方。对于初学者，做一遍即可学会。有甜和咸两种做法。"
+    ],
     "difficulty": "★",
     "ingredients": [
       "鸡蛋",

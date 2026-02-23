@@ -4,7 +4,9 @@
     "category": "soup",
     "file": "dishes/soup/银耳莲子粥/银耳莲子粥.md",
     "title": "银耳莲子粥",
-    "description": "![银耳莲子粥](./银耳莲子粥.png)",
+    "description": [
+      "银耳莲子粥是一道营养非常丰富的粥。口味偏甜，具有养心安神的功效。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "银耳",

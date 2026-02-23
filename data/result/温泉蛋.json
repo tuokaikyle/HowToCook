@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/温泉蛋/温泉蛋.md",
     "title": "温泉蛋",
-    "description": "一种传统的日式小吃，可以用于各种佐餐，注意与溏心蛋区分，溏心蛋是蛋黄不熟蛋白熟了，温泉蛋是蛋白不熟蛋黄熟了",
+    "description": [
+      "一种传统的日式小吃，可以用于各种佐餐，注意与溏心蛋区分，溏心蛋是蛋黄不熟蛋白熟了，温泉蛋是蛋白不熟蛋黄熟了"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鸡蛋",

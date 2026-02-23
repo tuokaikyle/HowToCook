@@ -4,7 +4,9 @@
     "category": "soup",
     "file": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
     "title": "菌菇炖乳鸽",
-    "description": "- 菌菇炖乳鸽 汤鲜、肉嫩、营养丰富",
+    "description": [
+      "- 菌菇炖乳鸽 汤鲜、肉嫩、营养丰富"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "乳鸽",

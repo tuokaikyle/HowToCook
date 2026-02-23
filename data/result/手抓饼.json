@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/手抓饼.md",
     "title": "手抓饼",
-    "description": "---",
+    "description": [
+      "---"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "普通面粉",

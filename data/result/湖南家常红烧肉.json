@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
     "title": "湖南家常红烧肉",
-    "description": "![湖南家常红烧肉](./湖南家常红烧肉.jpeg)",
+    "description": [
+      "湖南家常红烧肉，入口软糯，肥而不腻"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "带皮五花肉",

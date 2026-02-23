@@ -4,7 +4,10 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
     "title": "蒜蓉空心菜",
-    "description": "背景：",
+    "description": [
+      "背景：",
+      "曾经去学校附近的川菜馆吃过蒜蓉空心菜，之后就一直很喜欢吃。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "空心菜",

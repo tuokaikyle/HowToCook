@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md",
     "title": "酸奶意式奶冻",
-    "description": "![示例菜成品](./酸奶意式奶冻.png)",
+    "description": [
+      "意式奶冻非常适合作为餐后甜品，可以搭配果酱、水果和香草。成品增加了原味酸奶，不会过于甜腻。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "淡奶油",

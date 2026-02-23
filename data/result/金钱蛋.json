@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/金钱蛋.md",
     "title": "金钱蛋",
-    "description": "金钱蛋是将水煮蛋切片煎至金黄，配以青红椒、豆豉爆炒而成。外焦里嫩，咸香微辣，形似铜钱寓意吉祥。简单快手又下饭的湘味家常～",
+    "description": [
+      "金钱蛋是将水煮蛋切片煎至金黄，配以青红椒、豆豉爆炒而成。外焦里嫩，咸香微辣，形似铜钱寓意吉祥。简单快手又下饭的湘味家常～"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鸡蛋",

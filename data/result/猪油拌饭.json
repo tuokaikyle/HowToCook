@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/猪油拌饭.md",
     "title": "猪油拌饭",
-    "description": "猪油拌饭是南方小朋友不爱吃饭时的 fallback，晶莹米粒裹着琥珀色猪油，酱油的咸鲜与葱花的清香在舌尖共舞，每一口都是碳水和脂肪的完美交响曲。",
+    "description": [
+      "猪油拌饭是南方小朋友不爱吃饭时的 fallback，晶莹米粒裹着琥珀色猪油，酱油的咸鲜与葱花的清香在舌尖共舞，每一口都是碳水和脂肪的完美交响曲。"
+    ],
     "difficulty": "★",
     "ingredients": [
       "米饭（推荐用粳米）",

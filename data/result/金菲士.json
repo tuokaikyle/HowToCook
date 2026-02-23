@@ -4,7 +4,9 @@
     "category": "drink",
     "file": "dishes/drink/金菲士/金菲士.md",
     "title": "金菲士",
-    "description": "**饮酒有害健康，未成年人禁止饮酒**",
+    "description": [
+      "**饮酒有害健康，未成年人禁止饮酒**"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "原料",

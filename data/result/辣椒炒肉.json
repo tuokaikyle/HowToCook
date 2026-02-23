@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/辣椒炒肉.md",
     "title": "辣椒炒肉",
-    "description": "⚠️注意：本道菜需要一定料理基础，不推荐新手尝试。",
+    "description": [
+      "⚠️注意：本道菜需要一定料理基础，不推荐新手尝试。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "青椒（吃辣的话推荐用杭椒，螺丝椒，不吃辣的用尖椒，甜椒）",

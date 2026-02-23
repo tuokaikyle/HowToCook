@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
     "title": "柱候牛腩",
-    "description": "![柱候牛腩成品](./柱候牛腩.jpeg)",
+    "description": [
+      "肉香味美，色泽诱人，滋补强壮，口感甚佳，令人垂涎的广式菜肴。有高压锅只需 1 个小时，否则需要炖煮 3 个小时。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "炖煮锅，高压锅（可选，但极度推荐！）",

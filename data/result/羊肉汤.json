@@ -4,7 +4,9 @@
     "category": "soup",
     "file": "dishes/soup/羊肉汤/羊肉汤.md",
     "title": "羊肉汤",
-    "description": "![羊杂汤](./羊肉汤.jpg)",
+    "description": [
+      "羊肉汤/羊肉汤简单易，有抵御寒冷、温润养胃、开胃健脾的功效，富含钙、铁、蛋白质等营养物质。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "羊肉或羊杂",

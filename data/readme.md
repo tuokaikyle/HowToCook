@@ -53,3 +53,8 @@ id should be incremental based the initial pinyin of the first character of the 
 the lines under ## should be all simple lines, and ### should not be specially treated. 
 ·## 附加内容· should also be added to json files
 regarding `## 计算`, calculations should have two keys. if a line starts with - or *, then append this line to the quantity: [string, string...]. else if this line is longer than 5 characters, append this line to note: [string, string...]
+
+If using this script to process dishes/meat_dish/酱牛肉/酱牛肉.md, then this line "家常酱牛肉营养丰富，味道香，不论是当作主食还是佐餐都很棒。一般初学者只需要 10 小时即可完成。" will be skipped. I hope to add such line to the description key of the json file. description can be an array of strings
+
+use md library
+ingredients should be: {name: string, quantity: number, unit: string}

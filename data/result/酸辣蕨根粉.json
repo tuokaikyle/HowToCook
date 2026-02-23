@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/酸辣蕨根粉.md",
     "title": "酸辣蕨根粉",
-    "description": "酸辣蕨根粉是一道适合初学者的简单易做的凉菜，可做主食，以酸辣口为主，预计 10 分钟可做完。",
+    "description": [
+      "酸辣蕨根粉是一道适合初学者的简单易做的凉菜，可做主食，以酸辣口为主，预计 10 分钟可做完。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "蕨根粉",

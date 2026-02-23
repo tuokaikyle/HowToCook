@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/鸡蛋三明治.md",
     "title": "鸡蛋三明治",
-    "description": "10 分钟的简易鸡蛋三明治 🥪",
+    "description": [
+      "10 分钟的简易鸡蛋三明治 🥪"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "鸡蛋",

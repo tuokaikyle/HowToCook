@@ -4,7 +4,9 @@
     "category": "soup",
     "file": "dishes/soup/生汆丸子汤.md",
     "title": "生汆丸子汤",
-    "description": "生汆丸子汤，吃的就是一个鲜、嫩、弹。",
+    "description": [
+      "生汆丸子汤，吃的就是一个鲜、嫩、弹。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "前腿肉",

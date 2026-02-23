@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/炒凉粉/炒凉粉.md",
     "title": "炒凉粉",
-    "description": "![炒凉粉成品](./chaoliangfen.jpg)",
+    "description": [
+      "炒凉粉是一道流行于山西、陕西地区的一道特色小吃，入口滑嫩，老少皆宜。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "凉粉",

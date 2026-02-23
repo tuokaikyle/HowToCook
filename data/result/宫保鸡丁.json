@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
     "title": "宫保鸡丁",
-    "description": "老派川菜的简单做法分享",
+    "description": [
+      "老派川菜的简单做法分享"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "手枪腿（或者鸡胸脯肉）",

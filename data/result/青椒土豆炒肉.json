@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
     "title": "青椒土豆炒肉",
-    "description": "![青椒土豆炒肉](https://user-images.githubusercontent.com/49046468/205808925-b0ab8f98-0325-4136-8094-3f2ae8c547d5.jpg)",
+    "description": [
+      "青椒土豆炒肉是一道荤素搭配的简单炒菜。一般初学者只需要 1 小时即可完成。贼下饭~"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "青椒",

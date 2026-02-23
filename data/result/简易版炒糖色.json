@@ -4,7 +4,9 @@
     "category": "condiment",
     "file": "dishes/condiment/简易版炒糖色.md",
     "title": "简易版炒糖色",
-    "description": "这是简易的糖色的做法。对于更为进阶的技巧和糖色更为进阶的用法，请学习[糖色的炒制](../../tips/advanced/糖色的炒制.md)。",
+    "description": [
+      "这是简易的糖色的做法。对于更为进阶的技巧和糖色更为进阶的用法，请学习[糖色的炒制](../../tips/advanced/糖色的炒制.md)。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "糖（任选其一）：",

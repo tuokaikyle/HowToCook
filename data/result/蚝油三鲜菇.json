@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
     "title": "蚝油三鲜菇",
-    "description": "几分钟就能做出的蚝油蘑菇，滑嫩入味鲜美可口，别提多好吃了。",
+    "description": [
+      "几分钟就能做出的蚝油蘑菇，滑嫩入味鲜美可口，别提多好吃了。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "香菇",

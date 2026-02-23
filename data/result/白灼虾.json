@@ -4,7 +4,9 @@
     "category": "aquatic",
     "file": "dishes/aquatic/白灼虾/白灼虾.md",
     "title": "白灼虾",
-    "description": "白灼虾非常适合程序员在沿海地区做，类似于清蒸鱼：简单容错、有营养、有满足感，甚至很好看。",
+    "description": [
+      "白灼虾非常适合程序员在沿海地区做，类似于清蒸鱼：简单容错、有营养、有满足感，甚至很好看。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "活虾",

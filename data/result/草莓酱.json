@@ -4,7 +4,9 @@
     "category": "condiment",
     "file": "dishes/condiment/草莓酱/草莓酱.md",
     "title": "草莓酱",
-    "description": "可以买那种一筐一筐卖的小草莓，主要是便宜。做成酱抹在面包上非常好吃。",
+    "description": [
+      "可以买那种一筐一筐卖的小草莓，主要是便宜。做成酱抹在面包上非常好吃。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "草莓",

@@ -4,7 +4,9 @@
     "category": "semi-finished",
     "file": "dishes/semi-finished/速冻汤圆/速冻汤圆.md",
     "title": "速冻汤圆",
-    "description": "![速冻汤圆](./速冻汤圆.jpg)",
+    "description": [
+      "速冻汤圆是一道简单易做的菜。一般初学者只需要 6 分钟即可完成。"
+    ],
     "difficulty": "★",
     "ingredients": [
       "速冻汤圆",

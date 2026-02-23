@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/空气炸锅面包片.md",
     "title": "空气炸锅面包片",
-    "description": "健康饱肚子，适宜正在减脂期的程序员食用",
+    "description": [
+      "健康饱肚子，适宜正在减脂期的程序员食用"
+    ],
     "difficulty": "★",
     "ingredients": [
       "面包片",

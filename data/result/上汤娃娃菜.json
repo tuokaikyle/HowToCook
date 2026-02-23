@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
     "title": "上汤娃娃菜",
-    "description": "上汤娃娃菜的做法 （素菜、减肥餐）",
+    "description": [
+      "上汤娃娃菜的做法 （素菜、减肥餐）"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "娃娃菜",

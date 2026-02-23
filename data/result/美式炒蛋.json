@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/美式炒蛋.md",
     "title": "美式炒蛋",
-    "description": "美式炒蛋具有松软鲜嫩的口感,与平时的炒蛋不同,美式炒蛋中加入了少量牛奶,使得蛋花更加的细密均匀,并且营养丰富~",
+    "description": [
+      "美式炒蛋具有松软鲜嫩的口感,与平时的炒蛋不同,美式炒蛋中加入了少量牛奶,使得蛋花更加的细密均匀,并且营养丰富~"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "鸡蛋",

@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
     "title": "干煸仔鸡",
-    "description": "![干煸仔鸡成品](./干煸仔鸡成品.jpg)",
+    "description": [
+      "干煸仔鸡是一道甜辣口味的川菜，是北京大学食堂赵春月厨师长研发的美食，广受师生喜爱。赵厨师长已将菜谱公开，方便大家自己动手制作，疫情居家下饭必备！"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "鸡腿",

@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/松仁玉米.md",
     "title": "松仁玉米",
-    "description": "松仁玉米是一道色香味俱全的家常菜，口感甜嫩清爽，松仁香脆，老少皆宜。",
+    "description": [
+      "松仁玉米是一道色香味俱全的家常菜，口感甜嫩清爽，松仁香脆，老少皆宜。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "玉米粒（建议使用甜玉米）",

@@ -7,7 +7,7 @@ type Recipe = {
   category: string;
   file: string;
   title: string;
-  description?: string;
+  description: string[];
   difficulty?: string;
   ingredients: string[];
   calculations: {
@@ -32,7 +32,7 @@ function parseRecipe(md: string, file: string): Recipe {
   const category = pathParts[1] ?? "unknown";
 
   let title = "";
-  let description = "";
+  const description: string[] = [];
   let difficulty = "";
   const ingredients: string[] = [];
   const calculations = {
@@ -103,8 +103,9 @@ function parseRecipe(md: string, file: string): Recipe {
       continue;
     }
 
-    if (!description && !line.startsWith("##")) {
-      description = line;
+    // 在第一个 ## 章节之前，收集普通文本行为 description
+    if (!section && !line.startsWith("![") && !line.startsWith("### ")) {
+      description.push(line);
     }
   }
 
@@ -113,7 +114,7 @@ function parseRecipe(md: string, file: string): Recipe {
     category,
     file,
     title,
-    description: description || undefined,
+    description,
     difficulty: difficulty || undefined,
     ingredients,
     calculations,

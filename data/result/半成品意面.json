@@ -4,7 +4,9 @@
     "category": "semi-finished",
     "file": "dishes/semi-finished/半成品意面.md",
     "title": "半成品意面",
-    "description": "意大利面🍝和中国面条口感上的区别主要是因为它是由小麦品种中最硬质的杜兰(durum)磨粉制成的。",
+    "description": [
+      "意大利面🍝和中国面条口感上的区别主要是因为它是由小麦品种中最硬质的杜兰(durum)磨粉制成的。"
+    ],
     "difficulty": "★",
     "ingredients": [
       "1 袋 半成品意大利面（推荐品牌圃美多）",

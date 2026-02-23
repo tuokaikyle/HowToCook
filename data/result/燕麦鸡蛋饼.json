@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/燕麦鸡蛋饼.md",
     "title": "燕麦鸡蛋饼",
-    "description": "燕麦鸡蛋饼是极具营养、便于制作、适宜快速制作的早餐。尤其适宜热爱健身的上班族。",
+    "description": [
+      "燕麦鸡蛋饼是极具营养、便于制作、适宜快速制作的早餐。尤其适宜热爱健身的上班族。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "鸡蛋",

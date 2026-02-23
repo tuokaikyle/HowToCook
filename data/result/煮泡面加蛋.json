@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/煮泡面加蛋.md",
     "title": "煮泡面加蛋",
-    "description": "煮泡面加蛋是能满足于各种人群的生存基本需求的重要主食，其材料方便易得，做法简单易上手且制作周期极短。",
+    "description": [
+      "煮泡面加蛋是能满足于各种人群的生存基本需求的重要主食，其材料方便易得，做法简单易上手且制作周期极短。"
+    ],
     "difficulty": "★",
     "ingredients": [
       "泡面",

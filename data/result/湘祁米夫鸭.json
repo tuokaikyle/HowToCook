@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
     "title": "湘祁米夫鸭",
-    "description": "![湘祁米夫鸭](./湘祁米夫鸭.jpg)",
+    "description": [
+      "湖南两祁地区特色菜品，逢年过节家家桌上有。鸭肉被米粉子包裹，入口咸香回味悠长可解乡愁。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "鸭子（必须新鲜现杀的）",

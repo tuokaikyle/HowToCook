@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
     "title": "莴笋叶煎饼",
-    "description": "莴笋叶煎饼营养、好吃",
+    "description": [
+      "莴笋叶煎饼营养、好吃"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "莴笋叶",

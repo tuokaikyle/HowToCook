@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/凉粉/凉粉.md",
     "title": "凉粉",
-    "description": "![liangfen](./lf1.jpg)",
+    "description": [
+      "伤心凉粉吃了不会让人伤心的哦！"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "豌豆淀粉",

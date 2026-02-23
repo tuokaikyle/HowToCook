@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/猪肉烩酸菜.md",
     "title": "猪肉烩酸菜",
-    "description": "猪肉烩酸菜是一道北方名菜，简单易做。富含蛋白质。一般初学者需要 3 小时完成。",
+    "description": [
+      "猪肉烩酸菜是一道北方名菜，简单易做。富含蛋白质。一般初学者需要 3 小时完成。"
+    ],
     "difficulty": "★★★★★",
     "ingredients": [
       "猪五花肉或猪肉排骨",

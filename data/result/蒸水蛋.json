@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/蒸水蛋.md",
     "title": "蒸水蛋",
-    "description": "蒸水蛋（北方有些地区叫鸡蛋糕儿）都是饭店的好吃，如何自己做水滑嫩香的蒸水蛋，本教程包教包会！",
+    "description": [
+      "蒸水蛋（北方有些地区叫鸡蛋糕儿）都是饭店的好吃，如何自己做水滑嫩香的蒸水蛋，本教程包教包会！"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "新鲜鸡蛋",

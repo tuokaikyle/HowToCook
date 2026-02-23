@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/提拉米苏/提拉米苏.md",
     "title": "提拉米苏",
-    "description": "![自家提拉米苏成品](提拉米苏成品.jpg)",
+    "description": [
+      "提拉米苏，是意大利传统甜品。无需烤箱操作简便，烘焙新手也可以零失误获得一份美味的提拉米苏。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "马斯卡彭芝士",

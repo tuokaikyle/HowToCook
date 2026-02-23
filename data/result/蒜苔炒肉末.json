@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/蒜苔炒肉末.md",
     "title": "蒜苔炒肉末",
-    "description": "蒜苔炒肉末是一道简单易做的菜。这是一道北方家常菜，以做法简单、味道上乘的特点，在广大北方人民群众中备受喜爱。",
+    "description": [
+      "蒜苔炒肉末是一道简单易做的菜。这是一道北方家常菜，以做法简单、味道上乘的特点，在广大北方人民群众中备受喜爱。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "五花肉薄片",

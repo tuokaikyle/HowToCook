@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/茭白炒肉/茭白炒肉.md",
     "title": "茭白炒肉",
-    "description": "茭白味道鲜美，有一定营养价值",
+    "description": [
+      "茭白味道鲜美，有一定营养价值"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "茭白",

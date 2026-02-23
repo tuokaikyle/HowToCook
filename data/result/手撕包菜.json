@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
     "title": "手撕包菜",
-    "description": "手撕包菜是一道色香味俱全的汉族名菜，属于湘菜系",
+    "description": [
+      "手撕包菜是一道色香味俱全的汉族名菜，属于湘菜系"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "包菜",

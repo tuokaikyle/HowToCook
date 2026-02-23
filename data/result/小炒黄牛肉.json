@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
     "title": "小炒黄牛肉",
-    "description": "![小炒黄牛肉成品](./小炒黄牛肉.jpg)",
+    "description": [
+      "小炒黄牛肉是一道简单易做的湘菜。口味十分劲爆爽口。一般初学者只需要 1 小时即可完成"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "牛里脊",

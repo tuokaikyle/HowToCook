@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/水油焖蔬菜.md",
     "title": "水油焖蔬菜",
-    "description": "水油焖蔬菜中添加了油，这提升了口感，并且可提升脂溶性维生素的摄入。相比生吃蔬菜，好处更多。",
+    "description": [
+      "水油焖蔬菜中添加了油，这提升了口感，并且可提升脂溶性维生素的摄入。相比生吃蔬菜，好处更多。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "食用油",

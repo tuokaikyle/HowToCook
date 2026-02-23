@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
     "title": "拔丝土豆",
-    "description": "拔丝土豆是一道色香味俱全的特色名菜，属于鲁菜系",
+    "description": [
+      "拔丝土豆是一道色香味俱全的特色名菜，属于鲁菜系"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "土豆",

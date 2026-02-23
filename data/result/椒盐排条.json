@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/椒盐排条.md",
     "title": "椒盐排条",
-    "description": "椒盐排条是道非常经典的本帮菜，咸、香，也容易制作。",
+    "description": [
+      "椒盐排条是道非常经典的本帮菜，咸、香，也容易制作。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "大排",

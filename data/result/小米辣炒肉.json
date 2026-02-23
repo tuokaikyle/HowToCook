@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/小米辣炒肉.md",
     "title": "小米辣炒肉",
-    "description": "⚠️注意：不建议清淡饮食的尝试。",
+    "description": [
+      "⚠️注意：不建议清淡饮食的尝试。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "小米辣",

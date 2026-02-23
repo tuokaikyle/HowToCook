@@ -4,7 +4,9 @@
     "category": "aquatic",
     "file": "dishes/aquatic/酱炖蟹.md",
     "title": "酱炖蟹",
-    "description": "酱炖蟹，秋日限定咸鲜风味！蟹黄绵润裹着酱香，蟹肉清甜入味，汤汁浓郁拌饭一绝。",
+    "description": [
+      "酱炖蟹，秋日限定咸鲜风味！蟹黄绵润裹着酱香，蟹肉清甜入味，汤汁浓郁拌饭一绝。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "螃蟹（首选河蟹，次选梭子蟹）",

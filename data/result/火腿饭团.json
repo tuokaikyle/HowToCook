@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/火腿饭团/火腿饭团.md",
     "title": "火腿饭团",
-    "description": "![火腿饭团](./饭团.png)",
+    "description": [
+      "好吃！富含碳水和蛋白质还有维生素。有手就行的制作难度，预计制作时间 1 h 。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "火腿",

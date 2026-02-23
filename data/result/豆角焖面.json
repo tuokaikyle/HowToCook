@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/豆角焖面/豆角焖面.md",
     "title": "豆角焖面",
-    "description": "豆角焖面是一道懒人美食，操作简单，方便美味。",
+    "description": [
+      "豆角焖面是一道懒人美食，操作简单，方便美味。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鲜面条（韭叶 or 二细<解释见最下方 关于面条粗细区别一栏）",

@@ -4,7 +4,9 @@
     "category": "drink",
     "file": "dishes/drink/泰国手标红茶/泰国手标红茶.md",
     "title": "泰国手标红茶",
-    "description": "![泰国手标红茶成品](./泰国手标红茶.jpg)",
+    "description": [
+      "泰国手标红茶是泰国街头随处可见的奶茶，味道香纯，绵密。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "水",

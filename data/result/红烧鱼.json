@@ -4,7 +4,11 @@
     "category": "aquatic",
     "file": "dishes/aquatic/红烧鱼.md",
     "title": "红烧鱼",
-    "description": "- **WARNING** 如果没有使用过菜刀剁过肉类食物，那么并不推荐使用该菜单！！！",
+    "description": [
+      "- **WARNING** 如果没有使用过菜刀剁过肉类食物，那么并不推荐使用该菜单！！！",
+      "- 在操作中，锋利的菜刀可能会划伤手指，请一定要小心。",
+      "- 此做法代表通用红烧鱼做法，材料分为必备和可添加~"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "姜、蒜瓣、干辣椒",

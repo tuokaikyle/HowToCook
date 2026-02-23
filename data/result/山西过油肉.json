@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/山西过油肉.md",
     "title": "山西过油肉",
-    "description": "过油肉是山西传统名菜，有很多年历史，基本家家都会做。",
+    "description": [
+      "过油肉是山西传统名菜，有很多年历史，基本家家都会做。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "猪里脊",

@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/炒青菜.md",
     "title": "炒青菜",
-    "description": "制作简单方便。预计 10 分钟即可完成。",
+    "description": [
+      "制作简单方便。预计 10 分钟即可完成。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "青菜"

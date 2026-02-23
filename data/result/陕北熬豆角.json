@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/陕北熬豆角.md",
     "title": "陕北熬豆角",
-    "description": "陕北熬豆角是一种对初学者极其友善的菜，因其制作方式使用`熬`的方式，食材可多可少，可有可无，几乎不存在失败的可能性。",
+    "description": [
+      "陕北熬豆角是一种对初学者极其友善的菜，因其制作方式使用`熬`的方式，食材可多可少，可有可无，几乎不存在失败的可能性。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "豆角",

@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/酱牛肉/酱牛肉.md",
     "title": "酱牛肉",
-    "description": "![酱牛肉](./酱牛肉.jpg)",
+    "description": [
+      "家常酱牛肉营养丰富，味道香，不论是当作主食还是佐餐都很棒。一般初学者只需要 10 小时即可完成。"
+    ],
     "difficulty": "★★★★★",
     "ingredients": [
       "牛腱子肉",

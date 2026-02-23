@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/溏心蛋.md",
     "title": "溏心蛋",
-    "description": "喜欢健身的小伙伴可以在每颗鸡蛋中获得 6 克蛋白质。大约 15 分钟可以完成制作。",
+    "description": [
+      "喜欢健身的小伙伴可以在每颗鸡蛋中获得 6 克蛋白质。大约 15 分钟可以完成制作。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鸡蛋",

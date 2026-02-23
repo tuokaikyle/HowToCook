@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
     "title": "黔式腊肠娃娃菜",
-    "description": "![黔式腊肠娃娃菜](./黔式腊肠娃娃菜.jpg)",
+    "description": [
+      "黔式腊肠娃娃菜不需要掌握火候，也无需调料，非常适合懒癌的菜。制作时间 15 分钟，口味近似于川菜、湘菜，却是西南菜系中鲜见的不辣菜式，咸鲜可口、南北皆宜。"
+    ],
     "difficulty": "★",
     "ingredients": [
       "黔式腊肠",

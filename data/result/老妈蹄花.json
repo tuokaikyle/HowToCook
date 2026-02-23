@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/老妈蹄花/老妈蹄花.md",
     "title": "老妈蹄花",
-    "description": "![result 3](./result3.jpg)",
+    "description": [
+      "红烧猪蹄营养丰富，口感细腻，软烂脱骨，配上酸辣汁简直太香！"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "猪蹄（尽量选择猪前蹄：肉多筋多骨头少）",

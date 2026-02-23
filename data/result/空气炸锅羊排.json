@@ -4,7 +4,11 @@
     "category": "semi-finished",
     "file": "dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md",
     "title": "空气炸锅羊排",
-    "description": "![示例菜成品](./羊排.jpg)",
+    "description": [
+      "空气炸锅羊排超级懒人版，味道尚可，主要看羊排的品质。",
+      "- 烹饪总时长：40 分钟（准备 5 分钟+腌制 20 分钟+下锅 15 分钟）",
+      "- 实际操作时间：10 分钟"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "必备：羊排（推荐 JD 购买大庄园 新西兰进口 羔羊法式肩排，500g/袋共三片，JD 打折的话 42 元）",

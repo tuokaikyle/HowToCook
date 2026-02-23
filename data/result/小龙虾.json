@@ -4,7 +4,9 @@
     "category": "aquatic",
     "file": "dishes/aquatic/小龙虾/小龙虾.md",
     "title": "小龙虾",
-    "description": "![成品](./成品.jpg)",
+    "description": [
+      "在家里做的小龙虾，肉质细嫩，鲜嫩多汁，干净卫生。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "小龙虾",

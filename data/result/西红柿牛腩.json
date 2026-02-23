@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
     "title": "西红柿牛腩",
-    "description": "西红柿牛腩汤汁浓厚酸甜可口，牛肉软绵醇香，搭配米饭绝配。一般初学者需要 90 分钟完成。",
+    "description": [
+      "西红柿牛腩汤汁浓厚酸甜可口，牛肉软绵醇香，搭配米饭绝配。一般初学者需要 90 分钟完成。"
+    ],
     "difficulty": "★★★★★",
     "ingredients": [
       "西红柿",

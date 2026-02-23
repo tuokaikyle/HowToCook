@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
     "title": "糖拌西红柿",
-    "description": "![示例菜成品](./火山飘雪.jpg)",
+    "description": [
+      "新鲜可口，制作简便，营养价值高，适合夏季食用，家庭餐桌上的一道美味凉菜。西红柿含有大量的维生素 C, 做法简单 几分钟就可完成。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "西红柿",

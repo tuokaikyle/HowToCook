@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
     "title": "冬瓜酿肉",
-    "description": "![冬瓜酿肉成品](./冬瓜酿肉成品.jpg)",
+    "description": [
+      "荤素搭配，鲜嫩爽滑,做法简单。一般 30 分钟。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "冬瓜",

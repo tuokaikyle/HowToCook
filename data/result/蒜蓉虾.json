@@ -4,7 +4,9 @@
     "category": "aquatic",
     "file": "dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
     "title": "蒜蓉虾",
-    "description": "蒜蓉虾是广东省地方传统名菜，色香味俱全。",
+    "description": [
+      "蒜蓉虾是广东省地方传统名菜，色香味俱全。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "海虾",

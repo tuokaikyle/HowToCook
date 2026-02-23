@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/蒲烧茄子.md",
     "title": "蒲烧茄子",
-    "description": "众所皆知，茄子🍆和土豆🥔是两种荤菜。这一道蒲烧茄子，从外观上之于鳗鱼正如`土豆炖.*`中的生姜之于土豆。",
+    "description": [
+      "众所皆知，茄子🍆和土豆🥔是两种荤菜。这一道蒲烧茄子，从外观上之于鳗鱼正如`土豆炖.*`中的生姜之于土豆。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "茄子",

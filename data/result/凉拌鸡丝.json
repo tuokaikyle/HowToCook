@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
     "title": "凉拌鸡丝",
-    "description": "![凉拌鸡丝成品](./凉拌鸡丝.jpg)",
+    "description": [
+      "隔离期间的一道快手菜，少油低卡，制作简单，预计制作时间 30 分钟"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鸡胸肉（常温冷冻均可）",

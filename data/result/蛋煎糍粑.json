@@ -4,7 +4,10 @@
     "category": "breakfast",
     "file": "dishes/breakfast/蛋煎糍粑.md",
     "title": "蛋煎糍粑",
-    "description": "蛋煎糍粑做法很简单，不需要太多的厨艺基础~",
+    "description": [
+      "蛋煎糍粑做法很简单，不需要太多的厨艺基础~",
+      "蛋煎糍粑热量高，美味+顶饿+便宜，只需十分钟就可以完成~"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "鸡蛋",

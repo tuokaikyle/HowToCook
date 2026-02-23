@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/黄焖鸡.md",
     "title": "黄焖鸡",
-    "description": "黄焖鸡是一道十分下饭的美食，食材平平无奇又十分容易烹制，一学就会。",
+    "description": [
+      "黄焖鸡是一道十分下饭的美食，食材平平无奇又十分容易烹制，一学就会。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鸡腿",

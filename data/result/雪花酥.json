@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/雪花酥/雪花酥.md",
     "title": "雪花酥",
-    "description": "![雪花酥成品](./雪花酥成品.jpg)",
+    "description": [
+      "雪花酥是一个快捷简便的甜点，适合装盒送礼，制作耗时 30 分钟。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "不粘平底锅",

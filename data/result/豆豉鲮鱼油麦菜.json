@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
     "title": "豆豉鲮鱼油麦菜",
-    "description": "![豆豉鲮鱼油麦菜](./豆豉鲮鱼油麦菜成品.jpg)",
+    "description": [
+      "豆豉鲮鱼油麦菜是一到十分常见的菜，材料简单，操作方便，鲮鱼咸香，非常下饭。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "油麦菜",

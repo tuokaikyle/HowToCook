@@ -4,7 +4,9 @@
     "category": "dessert",
     "file": "dishes/dessert/龟苓膏/龟苓膏.md",
     "title": "龟苓膏",
-    "description": "![龟苓膏成品](./龟苓膏成品.jpg)",
+    "description": [
+      "---"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "龟苓膏粉 25 克",

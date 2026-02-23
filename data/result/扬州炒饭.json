@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/扬州炒饭/扬州炒饭.md",
     "title": "扬州炒饭",
-    "description": "扬州炒饭是蛋炒饭的升级版，制作时间较长，但是制作步骤简单",
+    "description": [
+      "扬州炒饭是蛋炒饭的升级版，制作时间较长，但是制作步骤简单"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "冷饭（干一点的为佳）",

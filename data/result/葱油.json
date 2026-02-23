@@ -4,7 +4,9 @@
     "category": "condiment",
     "file": "dishes/condiment/葱油.md",
     "title": "葱油",
-    "description": "葱油是用热油萃取以葱为主的各类香辛料得到的产物，可以用来调制肉馅，做凉拌菜，在热炒菜中作为出锅明油使用。",
+    "description": [
+      "葱油是用热油萃取以葱为主的各类香辛料得到的产物，可以用来调制肉馅，做凉拌菜，在热炒菜中作为出锅明油使用。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "油",

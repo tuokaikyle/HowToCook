@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
     "title": "芹菜拌茶树菇",
-    "description": "![芹菜拌茶树菇成品](./芹菜拌茶树菇.jpg)",
+    "description": [
+      "芹菜拌茶树菇是一道简单易做的凉拌菜。富含多种人体所需的维生素和矿物质。一般初学者只需要 30 分钟即可完成。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "闽星茶树菇",

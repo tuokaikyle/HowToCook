@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/茶叶蛋.md",
     "title": "茶叶蛋",
-    "description": "茶香浓郁，鲜香可口的高蛋白快速营养早餐，大约耗时 30 分钟。烹饪略微耗时，可以周末尝试，做一次大约够 2-3 个人吃。",
+    "description": [
+      "茶香浓郁，鲜香可口的高蛋白快速营养早餐，大约耗时 30 分钟。烹饪略微耗时，可以周末尝试，做一次大约够 2-3 个人吃。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鸡蛋",

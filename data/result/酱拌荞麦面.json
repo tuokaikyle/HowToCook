@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
     "title": "酱拌荞麦面",
-    "description": "酱拌荞麦面营养健康、酸甜可口",
+    "description": [
+      "酱拌荞麦面营养健康、酸甜可口"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "荞麦面",

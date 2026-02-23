@@ -4,7 +4,9 @@
     "category": "soup",
     "file": "dishes/soup/奶油蘑菇汤.md",
     "title": "奶油蘑菇汤",
-    "description": "---",
+    "description": [
+      "---"
+    ],
     "difficulty": "★",
     "ingredients": [
       "白蘑菇",

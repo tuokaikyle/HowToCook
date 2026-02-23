@@ -4,7 +4,9 @@
     "category": "breakfast",
     "file": "dishes/breakfast/吐司果酱.md",
     "title": "吐司果酱",
-    "description": "饱腹感的懒人快速营养早餐，2 分钟 搞定",
+    "description": [
+      "饱腹感的懒人快速营养早餐，2 分钟 搞定"
+    ],
     "difficulty": "★",
     "ingredients": [
       "新鲜吐司",

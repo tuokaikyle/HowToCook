@@ -4,7 +4,9 @@
     "category": "drink",
     "file": "dishes/drink/长岛冰茶.md",
     "title": "长岛冰茶",
-    "description": "**饮酒有害健康，未成年人禁止饮酒**",
+    "description": [
+      "**饮酒有害健康，未成年人禁止饮酒**"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "金酒",

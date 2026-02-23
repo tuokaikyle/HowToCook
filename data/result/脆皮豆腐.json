@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/脆皮豆腐.md",
     "title": "脆皮豆腐",
-    "description": "浓郁的酱汁裹满豆腐，吃一口就停不下来，别提有多好吃。",
+    "description": [
+      "浓郁的酱汁裹满豆腐，吃一口就停不下来，别提有多好吃。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "老豆腐",

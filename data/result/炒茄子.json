@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/炒茄子.md",
     "title": "炒茄子",
-    "description": "家常炒茄子，简单易学，原料不复杂，其中可选项有无皆可。（但是八角强烈推荐）",
+    "description": [
+      "家常炒茄子，简单易学，原料不复杂，其中可选项有无皆可。（但是八角强烈推荐）"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "茄子",

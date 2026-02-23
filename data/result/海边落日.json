@@ -4,7 +4,9 @@
     "category": "drink",
     "file": "dishes/drink/海边落日/海边落日.md",
     "title": "海边落日",
-    "description": "**饮酒有害健康，未成年人禁止饮酒**",
+    "description": [
+      "**饮酒有害健康，未成年人禁止饮酒**"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "原料",

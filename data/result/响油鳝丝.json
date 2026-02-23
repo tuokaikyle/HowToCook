@@ -4,7 +4,9 @@
     "category": "aquatic",
     "file": "dishes/aquatic/响油鳝丝.md",
     "title": "响油鳝丝",
-    "description": "响油鳝丝一道经典的江浙沪风味菜，鳝丝鲜嫩滑爽，以蒜香、姜末和酱汁调味，淋热猪油后香气扑鼻，口感浓郁微甜，超下饭～",
+    "description": [
+      "响油鳝丝一道经典的江浙沪风味菜，鳝丝鲜嫩滑爽，以蒜香、姜末和酱汁调味，淋热猪油后香气扑鼻，口感浓郁微甜，超下饭～"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "鳝丝",

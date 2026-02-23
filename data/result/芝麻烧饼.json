@@ -4,7 +4,9 @@
     "category": "staple",
     "file": "dishes/staple/烧饼/芝麻烧饼.md",
     "title": "芝麻烧饼",
-    "description": "![示例菜成品](./芝麻烧饼.jpg)",
+    "description": [
+      "芝麻烧饼，外酥里软，简单易做。"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "面粉",

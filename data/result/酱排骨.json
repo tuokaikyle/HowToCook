@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/酱排骨/酱排骨.md",
     "title": "酱排骨",
-    "description": "酱排骨其色泽酱红，肉质酥烂，骨香浓郁，汁浓味鲜，咸中带甜。",
+    "description": [
+      "酱排骨其色泽酱红，肉质酥烂，骨香浓郁，汁浓味鲜，咸中带甜。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "排骨",

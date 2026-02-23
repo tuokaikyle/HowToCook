@@ -4,7 +4,10 @@
     "category": "drink",
     "file": "dishes/drink/百香果橙子特调/百香果橙子特调.md",
     "title": "百香果橙子特调",
-    "description": "茉莉绿茶版本",
+    "description": [
+      "茉莉绿茶版本",
+      "苏打气泡水版本"
+    ],
     "difficulty": "★★★",
     "ingredients": [
       "原料:",

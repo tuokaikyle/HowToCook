@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
     "title": "广式萝卜牛腩",
-    "description": "![广式萝卜牛腩](./广式萝卜牛腩.webp)",
+    "description": [
+      "广式萝卜牛腩营养丰富，味道鲜美，汤汁浓郁、孩子食欲好了，成绩也好了。"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "牛腩",

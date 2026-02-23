@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/皮蛋豆腐.md",
     "title": "皮蛋豆腐",
-    "description": "皮蛋豆腐是一道简单易做的菜，一般初学者只需要 5 分钟即可完成。松花蛋 Q 弹滑嫩，配上嫩豆腐的清爽，咸香开胃超下饭！",
+    "description": [
+      "皮蛋豆腐是一道简单易做的菜，一般初学者只需要 5 分钟即可完成。松花蛋 Q 弹滑嫩，配上嫩豆腐的清爽，咸香开胃超下饭！"
+    ],
     "difficulty": "★",
     "ingredients": [
       "皮蛋",

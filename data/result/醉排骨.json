@@ -4,7 +4,9 @@
     "category": "meat_dish",
     "file": "dishes/meat_dish/醉排骨/醉排骨.md",
     "title": "醉排骨",
-    "description": "醉排骨是福建省福州市特色传统名菜",
+    "description": [
+      "醉排骨是福建省福州市特色传统名菜"
+    ],
     "difficulty": "★★★★",
     "ingredients": [
       "排骨",

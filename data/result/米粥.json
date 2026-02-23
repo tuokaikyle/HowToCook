@@ -4,7 +4,9 @@
     "category": "soup",
     "file": "dishes/soup/米粥.md",
     "title": "米粥",
-    "description": "大米粥是一道以大米和水作為主要原料經大火煮沸熬製而成的美食，老少皆宜，米粥具有補脾、和胃、清肺功效。",
+    "description": [
+      "大米粥是一道以大米和水作為主要原料經大火煮沸熬製而成的美食，老少皆宜，米粥具有補脾、和胃、清肺功效。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "米",

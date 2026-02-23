@@ -4,7 +4,9 @@
     "category": "vegetable_dish",
     "file": "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
     "title": "鸡蛋羹",
-    "description": "![鸡蛋羹成品](./鸡蛋羹.jpg)",
+    "description": [
+      "鸡蛋羹，又称水蒸蛋，不需要准备复杂的食材，是一道简单快捷易做的菜，当早餐或是正餐都可，制作时长约为 15 分钟。"
+    ],
     "difficulty": "★★",
     "ingredients": [
       "鸡蛋",
