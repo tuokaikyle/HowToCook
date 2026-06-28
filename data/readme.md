@@ -58,3 +58,4 @@ If using this script to process dishes/meat_dish/酱牛肉/酱牛肉.md, then th
 
 use md library
 ingredients should be: {name: string, quantity: number, unit: string}
+index the steps and image
